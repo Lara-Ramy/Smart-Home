@@ -1,0 +1,11 @@
+HAL/EEPROM.o HAL/EEPROM.o: ../HAL/EEPROM.c ../HAL/EEPROM.h \
+  ../HAL/../UTILS/STD_TYPES.h ../HAL/../MCAL/I2C.h \
+  ../HAL/../MCAL/../UTILS/STD_TYPES.h
+
+../HAL/EEPROM.h:
+
+../HAL/../UTILS/STD_TYPES.h:
+
+../HAL/../MCAL/I2C.h:
+
+../HAL/../MCAL/../UTILS/STD_TYPES.h:

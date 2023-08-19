@@ -1,0 +1,13 @@
+MCAL/USART.o MCAL/USART.o: ../MCAL/USART.c ../MCAL/USART.h \
+  ../MCAL/../UTILS/STD_TYPES.h ../MCAL/USART_config.h ../MCAL/REGISTERS.h \
+  ../MCAL/../UTILS/MACROS.h
+
+../MCAL/USART.h:
+
+../MCAL/../UTILS/STD_TYPES.h:
+
+../MCAL/USART_config.h:
+
+../MCAL/REGISTERS.h:
+
+../MCAL/../UTILS/MACROS.h:
